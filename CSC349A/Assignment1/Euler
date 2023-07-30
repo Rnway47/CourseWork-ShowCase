@@ -1,0 +1,58 @@
+1.b)
+diary Euler
+Euler(86.2, 12.5, 9.81, 0, 0, 12, 15)
+values of t  approximations v(t)
+   0.000             0.0000
+   0.800             7.8480
+   1.600            14.7856
+   2.400            20.9183
+   3.200            26.3396
+   4.000            31.1319
+   4.800            35.3684
+   5.600            39.1133
+   6.400            42.4238
+   7.200            45.3502
+   8.000            47.9372
+   8.800            50.2240
+   9.600            52.2456
+  10.400            54.0326
+  11.200            55.6123
+  12.000            57.0088
+
+1.c)
+diary Euler 
+Euler(86.2, 12.5, 3.71, 0, 0, 12, 15)
+values of t  approximations v(t)
+   0.000             0.0000
+   0.800             2.9680
+   1.600             5.5917
+   2.400             7.9110
+   3.200             9.9612
+   4.000            11.7737
+   4.800            13.3758
+   5.600            14.7921
+   6.400            16.0441
+   7.200            17.1508
+   8.000            18.1292
+   8.800            18.9940
+   9.600            19.7585
+  10.400            20.4343
+  11.200            21.0318
+  12.000            21.5599
+
+1.d)
+%Calculate the true value of the free fall velocity when t =  12
+% Enter all the value is needed for the calculation
+m = 86.2;
+c = 12.5;
+g = 9.81;
+t = 12;
+vt = (g * m / c) * (1 - exp(-(c * t/m)));
+%Enter the approximation value
+P = 57.0088;
+%Enter the relation error formula for the final result
+Et = abs(1 - P / vt)
+
+Et =
+
+    0.0221
