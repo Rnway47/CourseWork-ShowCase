@@ -145,3 +145,5 @@ The direction of the refracted ray can be derived from the Snell-Descartes law i
 
 1. Derive the formula for the direction of the refracted ray based on the Snell-Descartes law.
 2. Implement the refraction color while being sure to check for total internal reflection (there may be no refracted ray if the incident direction is too low).
+
+_All credits go to Dr.Teseo Schneider https://github.com/teseoch/CG-Spring-2023_
