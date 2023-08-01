@@ -94,3 +94,5 @@ Deliverables
 -------------
 
 Submit your `main.cpp` and the `attribues.h` the final rasterized images and videos.
+
+_All credits go to Dr.Teseo Schneider https://github.com/teseoch/CG-Spring-2023_
