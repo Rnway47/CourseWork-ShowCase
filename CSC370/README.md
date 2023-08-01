@@ -7,3 +7,6 @@ The course will include elements of software engineering, theoretical computer s
 * Data Analysis: how can we answer questions about the world in terms of questions on such data?
 * Concurrency and Robustness: how does the database management system (DBMS) allow multiple users to query and modify the same data? What happens when there is a system failure?
 * Efficiency and Scalability: how does the DBMS store large amounts of data and process them efficiently?
+
+
+*Project runs on mysql*
