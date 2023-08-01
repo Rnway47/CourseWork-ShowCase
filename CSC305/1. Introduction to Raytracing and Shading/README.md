@@ -85,3 +85,5 @@ Using the provided parameters, the parallelogram with perspective projection sho
 
 Using the provided parameters, the sphere with perspective projection and colors should look like this
 ![](img/shading.png)
+
+_All credits go to Dr.Teseo Schneider https://github.com/teseoch/CG-Spring-2023_
