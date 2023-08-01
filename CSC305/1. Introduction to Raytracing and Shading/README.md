@@ -58,7 +58,7 @@ In this second exercise, you will implement the shading equations introduced in 
 Starting Code
 -------------
 
-After compiling the code following the process described in the [general instructions page](../Rules.md), you can launch the program from the command-line as follows:
+After compiling the code following the process described in the [general instructions page]([../Rules.md](https://github.com/teseoch/CG-Spring-2023/blob/587f202e563af3c35387f2b2a48ba24756e8023f/Rules.md)), you can launch the program from the command-line as follows:
 
 ```
 mkdir build; cd build; cmake ..; make
