@@ -1,4 +1,4 @@
-# Objectives: Create a Process Manager
+# Objective: Create a Process Manager
 
 ## Background Execution of Programs
 1. Start a Program in the Background (**bg foo**)
