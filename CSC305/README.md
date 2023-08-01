@@ -5,3 +5,7 @@ We will investigate how these fundamental components are integrated in current g
 
 # Learning Outcomes
 By the end of the course, the students will design, program, and analyze algorithms and systems for interactive 3D shape modeling and digital geometry processing.
+
+To set up an environment for the projects, please follow the [instructions](https://github.com/teseoch/CG-Spring-2023/blob/main/Rules.md)
+
+All credits go to **Dr.Teseo Schneider**, https://github.com/teseoch/CG-Spring-2023/tree/main
