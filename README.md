@@ -7,3 +7,4 @@ My completed/work-in-progress assignments/projects in uvic
 * CSC361: [Computer Communication and Networks](https://github.com/Rnway47/CourseWork-ShowCase/tree/be9da311c7c437efa2a6e792929b5f74531cf9e9/CSC361)
 * CSC370: [Database Systems](https://github.com/Rnway47/CourseWork-ShowCase/tree/be9da311c7c437efa2a6e792929b5f74531cf9e9/CSC370)
 * SENG474: [Data Mining](https://github.com/Rnway47/CourseWork-ShowCase/tree/be9da311c7c437efa2a6e792929b5f74531cf9e9/SENG474)
+* [Sun Haven Mod(s)](https://github.com/Rnway47/SunHaven-Mod)
