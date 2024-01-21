@@ -1,0 +1,1 @@
+For Question 4, 5, and 6, it uses the excel sheet on BrightSpace. Modified part of the excel sheets are mentioned in the answer pdf file. For Question 3 and 7, you can run the files in dedicated folders to replicate the simulations
